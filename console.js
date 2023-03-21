@@ -19,3 +19,6 @@ git.push('origin', 'master');
 
 //This is just inform you//
 console.log("Thank you so much")
+
+// This done for test  purposes //
+console.log("Test one")
