@@ -16,3 +16,6 @@ git.addRemote('origin', 'https://github.com/your-username/your-repo.git');
 
 // Push the changes to the remote repository
 git.push('origin', 'master');
+
+//This is just inform you//
+console.log("Thank you so much")
